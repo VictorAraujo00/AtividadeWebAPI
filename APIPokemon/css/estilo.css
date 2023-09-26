@@ -1,0 +1,41 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	text-align: center;
+	background-image: url('https://t3.ftcdn.net/jpg/01/36/83/32/360_F_136833246_6pOcf8X2VUnshmccKBF6pKwSaOA31k8x.jpg');
+	background-size: 120%;
+	background-repeat: no-repeat;
+}
+div#container{
+	width: 200px;
+	background-color: darkgreen;
+	border-radius: 10px;
+	box-shadow: 5px 5px 3px gray;
+	margin: 10% auto 10px;
+	padding: 5px;
+}
+h1{
+	color: rgb(255, 203, 5);
+	border: 5px solid rgb(42, 117, 187);
+	width: 350px;
+	margin-left: 580px;
+	background-color: rgb(60, 90, 166);
+
+}
+h2{
+	color: rgb(255, 203, 5);
+	background-color: rgb(60, 90, 166);
+	width: 140px;
+	margin-left: 25px;
+}
+
+#imagemPoke{
+	border-radius: 50%;
+	background-color: rgba(255, 255, 255, 0.6);
+}
+
+button{
+	background-color: green;
+	border-radius: 50%;
+}
